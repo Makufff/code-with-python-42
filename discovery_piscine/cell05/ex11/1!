@@ -9,4 +9,3 @@ else:
 
     for param in sys.argv[1:]:
         print(param + ":", len(param))
-
